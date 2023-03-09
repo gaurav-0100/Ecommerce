@@ -1,4 +1,4 @@
-# MERN E-COMMERCE
+# SHOPGENIE
 
 
 
