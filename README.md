@@ -1,6 +1,6 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE
 
-Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
+
 
 
 
